@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vkroutertest/static/css/main.87f0ea72.css",
+    "main.js": "/vkroutertest/static/js/main.1e3aaf61.js",
+    "index.html": "/vkroutertest/index.html",
+    "main.87f0ea72.css.map": "/vkroutertest/static/css/main.87f0ea72.css.map",
+    "main.1e3aaf61.js.map": "/vkroutertest/static/js/main.1e3aaf61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87f0ea72.css",
+    "static/js/main.1e3aaf61.js"
+  ]
+}
